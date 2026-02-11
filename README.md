@@ -92,6 +92,7 @@ Primary decision factors:
 - Feature extraction from unstructured financial text
 - Backtesting research pipelines
 
+---
 
 ## Data Source
 Earnings call transcripts were sourced from the {Earning Call Transcripts}[https://www.kaggle.com/datasets/ramssvimala/earning-call-transcripts] dataset on Kaggle
