@@ -92,6 +92,11 @@ Primary decision factors:
 - Feature extraction from unstructured financial text
 - Backtesting research pipelines
 
+
+## Data Source
+Earnings call transcripts were sourced from the {Earning Call Transcripts}[https://www.kaggle.com/datasets/ramssvimala/earning-call-transcripts] dataset on Kaggle
+The dataset provides raw earnings call text across multiple companies and quarters, which is used as input to the NLP pipeline for metric extraction and sentiment analysis.
+
 ---
 
 ## Disclaimer
