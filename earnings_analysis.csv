@@ -1,0 +1,2 @@
+company,ticker,quarter,year,revenue,revenue_growth_yoy,revenue_vs_estimate,eps_actual,eps_vs_estimate,eps_surprise_pct,gross_margin,operating_margin,guidance_direction,guidance_summary,management_sentiment,key_growth_drivers,recommendation,options_strategy,confidence,reasoning
+AMD,AMD,Q4,2017,1.48,34.0,,,,,35.0,7.0,maintained,,positive,"Ryzen, Radeon Vega",BUY,Buy calls - strong fundamentals,High,34.0% revenue growth; guidance maintained; positive sentiment
